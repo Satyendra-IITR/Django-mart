@@ -1,0 +1,10 @@
+amqp==2.4
+celery==4.0.2
+Django==1.9.4
+django-haystack==2.4.1
+django-paypal==0.4.1
+django-weasyprint==0.1
+Markdown==2.6.8
+redis==2.10.5
+WeasyPrint==0.40
+
